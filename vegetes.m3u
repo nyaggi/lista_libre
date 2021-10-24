@@ -1,0 +1,815 @@
+#EXTM3U
+#EXTINF:-1 group-title="24/7" ,ANGRY BIRDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http:%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
+#EXTINF:-1 group-title="24/7" ,MONSTRUOS DE VERDAD
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1255271059.m3u8
+#EXTINF:-1 group-title="ANIMALES" ,PET COLLECTIVE 2
+https://the-pet-collective-international-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ANIMALES" ,PET COLLECTIVE
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="ANIME" ,LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 group-title="ANIME" ,ANIME ZONE
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 4 SAN FRANCISCO
+http://204.199.3.2/.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AMERICA TUCUMAN
+http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,5R TV SANTA FE
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,ZN NOTICIAS CALETA OLIVIA
+http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CORREA RADIOVISION
+http://arcast.net:1935/correadigital/canal12/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,13 MAX CORRIENTES
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CABLE 10 HD RIO GALLEGOS
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Telemax HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Eco TV Tandil
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 4 Balcarce
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Televisión Rionegrina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,MULTIVISIÓN - SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NUEVA IMAGEN
+http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 7 CHUBUT
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 5 PICO TRUNCADO SANTA CRUZ
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UTNtv Rio Gallegos
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 10 Entre Rios
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CL3 SANTA FE
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 11 MACHAGAI CHACO
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,PLAY TELEVISION SANTA FE
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,9 link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TeleNord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL PROVINCIAL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CADENA RITMO 101.1 FM NEUQUEN
+https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 18 SALTA
+https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Canal 5 Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1830773234.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 3 LA PAMPA
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,C5SF SANTA FE
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,CANAL 8 CATAMARCA
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 3 LAS HERAS
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 6 MORENO
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 7 JUJUY
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CABLE IMAGEN ARMSTRONG SANTA FE
+https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Litus
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Canal 13 San Luis
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UTN TV RIO GALLEGOS
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 3 ROSARIO
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 2 GUALEGUAY ENTRE RIOS
+https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,INFORMEDIA 24  RIO GALLEGOS
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 13 LA RIOJA
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 2 SAN LUIS
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TVEO MENDOZA
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TDC TV SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 41 XFN MAR DEL PLATA
+https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 22 WEB
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 7 CATAMARCA
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,CATAMARCA TV
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 12 PUERTO MADRYN
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,VER TV VENADO TUERTO
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL ENCUENTRO - 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,MIRADOR  22.3
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SOLIDARIA TV ARGENTINA
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RURAL TV
+https://cda2.streaming.ws/elrural/live/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 29 ENSENADA
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 20 VILLA MARIA CORDOBA
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,IP  24.5
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,COOPE TV
+https://ingest-wza.bustream.com/coopetv/coopetv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,BRAGADO TV
+https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 6 POSADAS MISIONES
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CGTN ESPAÑOL
+https://livees.cgtn.com/200e/prog_index.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,5900 TV CORDOBA
+https://mediacp.hostradios.com.ar:19360/5900/5900.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CN 24/7 NEUQUEN
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CADENA TIEMPO CHUBUT
+https://panel.dattalive.com/8034/8034/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Canal 10 Rio Negro
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Sólo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CHACRA TV
+https://s8.stweb.tv/chacra/live/chunks.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,AIRE DE SANTA FE
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,LA VOZ TV
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,LA VOZ DE TUCUMÁN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?
+#EXTINF:-1 group-title="ARGENTINA" ,X24 TUCUMAN
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CIUDAD MAGICA 105.1 FM AUSONIA
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 32 SPTV SAN PEDRO
+https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 2 SANAGASTA
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,6 ENTRE RIOS TV
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,FENIX LA RIOJA
+https://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 5 TANDIL
+https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 3 FORMOSA
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 4 TELEAIRE SAN MARTIN
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Universidad de La Plata
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,WOX ROSARIO 88.3 FM
+https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,NEOX TV SALTA
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,EL DIARIO DE PRINGLES
+https://streaming.reltid.com.ar/hls/pringles.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 12 TUCUMAN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+#EXTINF:0 group-title="ARGENTINA" tvg-id="1" ,telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 group-title="ARGENTINA" ,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL U CORDOBA
+https://vcp.myplaytv.com/canal10srt/smil:canal10srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 10 CORDOBA
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELECINCO TRELEW
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELEDIEZ PASO DE LOS LIBRES
+https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RADIO CASILDA 91.1 FM SANTA FE
+https://videohd.live:19360/8046/8046.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 4 BAHIA BLANCA
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,RADIO CARDINAL MIRAMAR CORDOBA
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CELTA TV TRES ARROYOS
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CROSSING TV RIO GALLEGOS
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 11 MAR DE AJO
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CHILECITO TV LA RIOJA
+https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TELEVISION REGIONAL UNIMARC CORDOBA
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 2 SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,TV PUBLICA FUEGUINA
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,UNITEVE VILLA MARIA CORDOBA
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,Canal 2 Pinamar
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Canal 2 Pinamar
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" ,CANAL 2 TELPIN PINAMAR
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:0 group-title="ARGENTINA" ,Coronavirus TV
+https://www.youtube.com/watch?v=NMre6IAAAiU/lived
+#EXTINF:-1 group-title="BOLIVIA" ,BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="BOLIVIA" ,BOLIVIA TV 2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 group-title="BRASIL" ,TV Caravelas BRASIL
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,CAMERA PANDA AO VIVO 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CAM" ,CAMERA PANDA AO VIVO 3
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CAM" ,AV 3 Y 104 VILLA GESELL
+http://cam104y3.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,BS AS Y PLAYA VILLA GESELL
+http://cambsasyplaya.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,LA PINOCHA VILLA GESELL
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,LAS FLORES PCIA. BUENOS AIRES
+http://inliveserver.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,NASA Tv EN VIVO HD
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="CAM" ,NASA tv HD
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+#EXTINF:-1 group-title="CAM" ,NASA Space Station 2
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
+#EXTINF:-1 group-title="CAM" ,SIERRA DE LA VENTANA
+https://streaming.reltid.com.ar/hls/sierra.m3u8
+#EXTINF:-1 group-title="CAM" ,BOTAVARA PINAMAR
+https://wowza.telpin.com.ar:1935/camara-botavara/smil:camara-botavara.smil/chunklist_w555467229_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="CAM" ,BUNGE Y EL MAR PINAMAR
+https://wowza.telpin.com.ar:1935/camara-bunge/smil:camara-bunge.smil/chunklist_w968282560_b1344100_sleng.m3u8
+#EXTINF:-1 group-title="CAM" ,BUNGE Y LIBERTADOR PINAMAR
+https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,EL PINGUINO TV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,TELEMILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:-1 group-title="CHILE" ,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,Holvoet
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1 group-title="CHILE" ,Campo Abierto TV  Huechuraba
+http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:-1 group-title="CHILE" ,PORTALFOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 group-title="CHILE" ,TV MAS
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,EKIZ TV CHILE
+https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,HITO CERO TV
+https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,ON RADIO KPOP CHILE
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,BIO BIO TV CHILE
+https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="CHILE" ,TELETRAK
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="CHILE" ,ADN TV
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_1_sles.m3u8
+#EXTINF:-1 group-title="CHINA" ,CCTV Notícias
+https://cctvcnchwh5ca.v.cdn20.com/live/cctv13_2/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="CINE" ,American Horror HD
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,A3CINE
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+#EXTINF:-1 group-title="CINE" ,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,AME47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title="CINE" ,GEO
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,Geovision
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,RUN:TIME 2
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,MY TIME MOVIES 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,MY TIME MOVIES 1
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+#EXTINF:-1 group-title="CINE" ,RAKUTEN SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,RAKUTEN TV DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="CINE" ,TV POP
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CINE" ,BUTACA TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="CINE ON DEMAND" ,MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+#EXTINF:-1 group-title="CINE ON DEMAND" ,COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+#EXTINF:-1 group-title="CINE ON DEMAND" ,ESTRENOS:THE EVIL WITHIN (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+#EXTINF:-1 group-title="CINE ON DEMAND" ,ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+#EXTINF:-1 group-title="CINE ON DEMAND" ,ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+#EXTINF:-1 group-title="CINE ON DEMAND" ,ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+#EXTINF:-1 group-title="CINE ON DEMAND" ,Colossal
+http://ow.ly/FXZ930eWtrs
+#EXTINF:-1 group-title="CINE ON DEMAND" ,BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 group-title="CINE ON DEMAND" ,Nosotros Los Nobles
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,Guardianes de la Galaxia
+https://goo.gl/sFaEVq
+#EXTINF:-1 group-title="CINE ON DEMAND" ,VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,TUS MASCOTAS (3)
+https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,Verdad o Reto
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
+#EXTINF:-1 group-title="CINE ON DEMAND" ,El Practicante
+https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
+#EXTINF:-1 group-title="CINE ON DEMAND" ,JURASSIC WORLD
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+#EXTINF:-1 group-title="CINE ON DEMAND" ,JURASSIC WORLD (2)
+https://onedrive.live.com/download.aspx?cid=CE04B9016CA29A42&resid=CE04B9016CA29A42!125&authkey=ABVa_LQGRRgl8Yc
+#EXTINF:-1 group-title="CINE ON DEMAND" ,EL DIARIO DE BRIGDGETT  2016
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1 group-title="CINE ON DEMAND" ,EL DIARIO DE BRIGDGETT  2016 (2)
+https://onedrive.live.com/download?cid=9879d453fb55bed4&resid=9879D453FB55BED4%21108&authkey=!AA5xl6XOeiMGoJU
+#EXTINF:-1 group-title="CINE ON DEMAND" ,EL CAZADOR Y LA REINA DEL HIELO
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1 group-title="CINE ON DEMAND" ,EL CAZADOR Y LA REINA DEL HIELO (2)
+https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1 group-title="COCINA" ,GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="COCINA" ,TASTEMADE
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" ,CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 group-title="COLOMBIA" ,Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA" ,MUNDO+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:-1 group-title="COREA DEL SUR" ,EBS 1
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,Ticavision
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,TELERED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,NICOYA TV
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,CANAL 9 TV SUR CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,BARVA TV
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 group-title="COSTA RICA" ,38 TV
+https://rtmp.info/canal38/envivo/playlist.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,CBN Espanol
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,TV Maná Córdoba
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,CDM
+http://live247tv.net:1935/marcos536/marcos536/chunklist_w704457421.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,SUBLIME GRACIA TV FORMOSA
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,CADENA JCB  - TEMPERLEY
+https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
+#EXTINF:-1 group-title="CRISTIANO" ,DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CUBA" ,CUBAVISION
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 group-title="DEPORTES" ,Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0 group-title="DEPORTES" ,DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,FOX SPORTS AUSTRALIA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,TyC SPORT (OPCION 2)
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,TyC SPORT PLAY 1
+https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,EITB BASQUE
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,FUEL TV
+https://fueltv-fueltv-7-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" ,LOOK SPORTS
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+#EXTINF:-1 group-title="DEPORTES" ,LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+#EXTINF:-1 group-title="DEPORTES" ,LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+#EXTINF:-1 group-title="DEPORTES" ,LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
+#EXTINF:-1 group-title="ECUADOR" ,CANELA TV 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 group-title="EL SALVADOR" ,wowtv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" ,WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,LANCELOT
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,GALICIA TV
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,PEQUERADIO
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,CANAL MALAGA
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 group-title="ESPAÑA" ,Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,CANAL SUR ANDALUCIA
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,ONDA ALGECIRAS ESPAÑA
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,7 TeleValencia
+https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
+#EXTINF:-1 group-title="ESPAÑA" ,IMAS TV ESPAÑA
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1 group-title="HONDURAS" ,TEN
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 group-title="INFANTIL" ,CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+#EXTINF:0 group-title="INFANTIL" ,MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="INFANTIL" ,DUCK TV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+#EXTINF:-1 group-title="INGLATERRA" ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" ,SOLIDARIA TV INTERNACIONAL
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:-1 group-title="ITALIA" ,RAI 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
+#EXTINF:-1 group-title="JAPÓN" ,NHK JAPON
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 group-title="KOREA" ,ARIRANG KOREA
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="MODA" ,HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 group-title="MODA" ,MODA Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="MODA" ,FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MODA" ,CHIC MAGAZINE
+https://paneltv.online:1936/8056/8056/playlist.m3u8
+#EXTINF:-1 group-title="MUNDO" ,CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,ADN40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,Canal Once
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,RCG TV3
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,JALISCO TV MEXICO
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,Canal Catorce mexico
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" ,INFINITA
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,AM 1020 SAN JUAN
+http://51.79.83.93:9998/live/am1020/chunks.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,CADENA 103 OLAVARRIA
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,RADIO CAPITAL
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:-1 group-title="MÚSICA" ,RADIO Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,HIT 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,ROCK TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,MusicTop HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+#EXTINF:-1 group-title="MÚSICA" ,Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,FM DEL SOL 91.9 SAN JUAN
+http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
+http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
+http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,RMX 105.1 FM USHUAIA
+http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MÚSICA" ,Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,MOLA TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Loop Party
+https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Loop Electronica
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,ALEGRIA TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,RETROPLUS TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,MELODY CHANNEL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,TELEMUSICA
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,XL MUSICA
+https://cloud2.streaminglivehd.com/8098/8098/.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,TU MUSICA HD
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,VIDEO ROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,CLASSIC ART SHOWCASE
+https://d3s1xaoyhrialn.cloudfront.net/CAS/index.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC CLASSIC ROCK
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC EVERYTHING 80'S
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC GREATEST HITS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC HIT LIST
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC HOT COUNTRY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC KARAOKE
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,STINGRAY MUSIC SOUL STORM
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,Videomix:SheepMix
+https://ia601302.us.archive.org/7/items/DJPanduroSheepMix/DJ%20Panduro%20-%20SheepMix.mp4
+#EXTINF:-1 group-title="MÚSICA" ,Videomix:Yearmix2010
+https://ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ%20Panduro%20-%20Video%20Yearmix%202010.mp4
+#EXTINF:-1 group-title="MÚSICA" ,Videomix:Yearmix2011
+https://ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ%20Panduro%20%26%20DJ%20Cool%20-%20Video%20Yearmix%202011%20%28HD%20720%29.mp4
+#EXTINF:-1 group-title="MÚSICA" ,Videomix:Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+#EXTINF:-1 group-title="MÚSICA" ,Videomix:Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+#EXTINF:-1 group-title="MÚSICA" ,ACV
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,SEXY KPOP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,AFROBEATS 24/7
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="MÚSICA" ,Rewind
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,REWIND
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,CAROLINA TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
+#EXTINF:-1 group-title="MÚSICA" ,FACTORY HD
+https://videohd.live:19360/8072/8072.m3u8
+#EXTINF:-1 group-title="NOTICIAS" ,Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 group-title="NOTICIAS" ,IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 group-title="NOTICIAS" ,ESTRELLA NEWS
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+#EXTINF:-1 group-title="PARAGUAY" ,CABLEMAS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY" ,SUCESO TV PARAGUAY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY" ,ABC PARAGUAY
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 group-title="PERÚ" ,UCI
+http://168.205.133.38/uci1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PERÚ" ,BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1 group-title="PERÚ" ,Central TV Perú
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 group-title="PERÚ" ,Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="PERÚ" ,CULTURA 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,MICROVISION
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,CANAL 18 TVRD
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8?
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 group-title="REPÚBLICA DOMINICANA" ,SUPERTV 55
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w704544947.m3u8
+#EXTINF:-1 group-title="RUSIA" ,Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1 group-title="SANTO DOMINGO" ,PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TyC SPORT PLAY 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,SPECTRE
+https://goo.gl/3KGMLf
+#EXTINF:-1 group-title="SIN CATALOGAR" ,The Cloverfield Paradox
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 group-title="SIN CATALOGAR" ,SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 group-title="SIN CATALOGAR" ,USA | EDGE SPORT
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELEVIDEO OCAMPO SANTA FE
+https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,LAS FLORES DIGITAL
+https://inliveserver.com:1936/8436/8436/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELEMAX - 26.3
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,Quinta TV
+https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELEDIARIO RIO CUARTO
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,Parasitos
+https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELECREATIVA LANUS
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TSN NECOCHEA
+https://panel.dattalive.com/tsnnecochea/tsnnecochea/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TANGO TV
+https://panel.streamingtv-mediacp.online:1936/8066/8066/chunklist_w1405405382.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,SOLO STAND UP
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RecordTV Manaus BRASIL
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RECORD NEWS BRASIL
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,REUTERS NOW
+https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TVGE INTERNACIONAL
+https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/chunklist_w2010324553_b800000.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,Primavera 15
+https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RUN:TIME
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RUN:TIME 3
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,SKY NEWS REINO UNIDO
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TV QUINTA REGION
+https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TVC BRASIL
+https://srv1.zcast.com.br/tvc/tvc/.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,WHAM TV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TV CARIOCA BRASIL
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,USA | STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,UNO CONTRA UNO TV
+https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELEVISION CELESTIAL ROSARIO
+https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RADIO CENTRO 92.9 VILLA MARIA CORDOBA
+https://stmvideo2.livecastv.com/centro/centro/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TL ESTRELLA
+https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TOON GOGGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 group-title="SIN CATALOGAR" ,TELEPACIFICO COLOMBIA
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 group-title="SIN CATALOGAR" ,RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
+https://streamyes.alsolnet.com/radiomediaticavideo/live/playlist.m3u8
+#EXTINF:-1 group-title="URUGUAY" ,TVF TV FLORIDA URUGUAY
+http://s5.mexside.net:1935/tvflorida/tvflorida/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,ABC ESTADOS UNIDOS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="USA" ,VOA ESTADOS UNIDOS
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+#EXTINF:-1 group-title="VARIEDAD" ,AFV
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VENEZUELA" ,VE PLUS
+http://190.122.96.187:8888/http/006
+#EXTINF:-1 group-title="VENEZUELA" ,PROMAR.TV
+http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
+#EXTINF:-1 group-title="VIDEOJUEGOS" ,LEVEL UP TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
